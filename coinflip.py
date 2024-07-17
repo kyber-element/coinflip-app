@@ -11,7 +11,3 @@ def flip_coin():
 if __name__ == "__main__":
     result = flip_coin()
     print(result)
-
-ls -a
-
-.git .gitignore .streamlit coinflip.py README.md requirements.txt
